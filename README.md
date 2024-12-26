@@ -1,6 +1,9 @@
 # AdventureMap
+인생 속에서 경험한 것들을 하나의 map에 이미지로 시각화하여 나타내는 앱
 
-React Native로 새 프로젝트를 시작하는 방법을 처음부터 알려드릴게요. 우리는 React Native와 Expo CLI를 사용할 예정입니다. 앱 이름은 HabitAdventureMap입니다.
+모바일앱제작 수업의 프로젝트로 개발 (김도윤)
+
+React Native, Expo CLI 사용
 
 1. React Native 개발 환경 설정
 
